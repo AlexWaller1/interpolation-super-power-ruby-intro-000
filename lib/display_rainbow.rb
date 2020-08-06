@@ -1,3 +1,3 @@
 def display_rainbow(colors)
-  puts "(["R","O","Y","G","B","I","V"])"
+  puts "#{colors[0],[1],[2],[3],[4],[5],[6]}"
 end
